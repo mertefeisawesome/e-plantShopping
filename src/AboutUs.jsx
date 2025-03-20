@@ -5,25 +5,14 @@ function AboutUs() {
   return (
     <div className="about-us-container">
       {/* <h1 className="about-us-heading">About Us</h1> */}
-      <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
+      <p className="about-us-description">Welcome to EternaBloom, home of Blossoming Beauty for 1400 Years!</p>
       <p className="about-us-content">
-        At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
-        high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
-        more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
-        plant enthusiast.
+      For over 14 centuries, EternaBloom has been the guardian of nature’s most delicate wonders. Rooted in history and nurtured by tradition, we have passed down the art of floristry from generation to generation, ensuring that every bloom carries the essence of time itself.
       </p>
-      {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
       <p className="about-us-content">
-        Our team of experts is dedicated to ensuring that each plant meets our strict standards of quality and care. 
-        Whether you're a seasoned gardener or just starting your green journey, we're here to support you every step of 
-        the way. Feel free to explore our collection, ask questions, and let us help you find the perfect plant for your 
-        home or office.
-      </p>
-      {/* <p className="plant_logo_right"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
-
+From the grand gardens of ancient civilizations to today’s modern floral artistry, our flowers have adorned royal palaces, sacred temples, and love letters that have stood the test of time. Each petal tells a story, each bouquet whispers history, and every order is a testament to 1400 years of passion, craftsmanship, and devotion to beauty.      </p>
       <p className="about-us-content">
-        Join us in our mission to create a greener, healthier world. Visit Paradise Nursery today and experience the 
-        beauty of nature right at your doorstep.
+At EternaBloom, we don’t just sell flowers—we weave history into every arrangement. Whether it’s a simple gesture of love, a timeless celebration, or a tribute to heritage, our flowers are more than just gifts—they are living legacies.
       </p>
     </div>
   );
